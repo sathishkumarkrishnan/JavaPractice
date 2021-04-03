@@ -11,6 +11,7 @@ public class Diagonal {
 	{
 		Scanner sc = new Scanner(System.in);
 		int n=sc.nextInt();
+		System.out.println("MyTest program");
 		int[][] val = new int[n][n];
 		//int i,j;
 		for(int i=0;i<n;i++)
